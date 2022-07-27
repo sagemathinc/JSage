@@ -1,5 +1,7 @@
 # JPython
 
+**NOTE: Development of JPython has moved to https://github.com/sagemathinc/pylang**
+
 ## A Python implementation in Javascript for use by JSage
 
 **History:** This is **built from RapydScript-ng** that I'm playing around withmodifying for use by the sagejs project. Seehttps://github.com/kovidgoyal/rapydscript-ng for some helpful documentation.
