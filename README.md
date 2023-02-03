@@ -1,3 +1,5 @@
+**This repo is basically deprecated.  However, work is continuing at https://github.com/sagemathinc/cowasm/tree/main/sagemath**
+
 # JSage
 
 > _"Something like the Python-based [SageMath](https://sagemath.org), but for the Javascript world."_
