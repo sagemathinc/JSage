@@ -4,6 +4,7 @@ lib/node_modules
 packages/*/dist
 packages/*/node_modules
 *.term
+*.chat
 *.wasm
 *.wat
 *.pyc
