@@ -1,4 +1,4 @@
-**This repo is basically deprecated.  However, work is continuing at https://github.com/sagemathinc/cowasm/tree/main/sagemath**
+**This repo is basically deprecated.  However, work is continuing at https://sagejs.org**
 
 # JSage
 
